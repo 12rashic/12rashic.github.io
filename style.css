@@ -7,12 +7,12 @@ background-color: #FFE4E1;
 .box {
 width : 450px;
 background :rgba(0,0,0,0.4);
-padding:60px;
+padding:80px;
 text-align: center;
 margin: auto;
 margin-top :5%;
 color : black;
-font-family : "Century Gothic" , sans-serif;
+font-family :"Arial" , sans-serif;
 background-color :#CD5C5C;
 }
 
@@ -76,16 +76,19 @@ color : black;
 font-family : "Century Gothic" , sans-serif;
 background-color :#BC8F8F;
 }
-
+.box-img h1{
+animation-delay:3s;
+}
 
 
 
 .box-img{
+ animation-delay:2s;
 
 border-radius :50%;
 width :200px;
 height :200px;
-}
+}s
 
  
 .box h1{
