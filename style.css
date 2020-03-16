@@ -1,0 +1,56 @@
+body {
+margin :0;
+padding :0;
+background-color: #f1f1f1;
+
+}
+.box {
+width : 450px;
+background :rgba(0,0,0,0.4);
+padding:40px;
+text-align: center;
+margin: auto;
+margin-top :5%;
+color : black;
+font-family : "Century Gothic" , sans-serif;
+
+
+}
+.box-img{
+border-radius :50%;
+width :200px;
+height :200px;
+}
+
+ 
+.box h1{
+font-size: 40px;
+letter-spacing:4px;
+font-weight:100;
+}
+.box h5{
+font-size:25px;
+letter-spacing:3px;
+}
+
+social-icons {
+	background-color : #454545;
+	width :300px;
+	height: 100px;
+  text-align: center;
+  }  
+.social-icons li {
+  display:inline-block;
+  list-style-type:none;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  }
+.social-icons li a {
+  border-bottom: none;
+  }
+.social-icons li img {
+  width:70px;
+  height:70px;
+  margin-right: 20px;
+}
+
